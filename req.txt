@@ -1,0 +1,17 @@
+components:
+----------------------------->>>>>>>>>>>>>>>>>
+
+Raspberrypi - Soc
+Secugen Hamster plus - Finger print reader
+
+---------------------------->>>>>>>>>>>>>>>>>>>
+
+
+Libraries used:
+
+python3 ------------------->>>>>>>>>>>>>>>>>>>>
+
+pysgfblib (Provided by secugen)
+tkinter
+pygame
+MySQLdb
